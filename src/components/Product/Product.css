@@ -1,0 +1,24 @@
+.product span {
+    font-size: 100px;
+}
+
+.wrapper .header-info {
+    position: fixed;
+    top: 0;
+    background: white;
+}
+
+.wrapper .body-products {
+    margin-top: 50px;
+}
+
+.wrapper {
+    padding: 20px;
+    font-size: 20px;
+}
+
+.wrapper button {
+    font-size: 20px;
+    background: none;
+    border: black solid 1px;
+}
